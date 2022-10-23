@@ -1,3 +1,10 @@
+/*
+Collaborators (if any):
+Time spent (in hours):
+*/
+
+
+-- Part A
 CREATE TABLE artworks (
   title TEXT,
   artist TEXT,
@@ -41,3 +48,54 @@ CREATE TABLE artists (
   wiki_qid TEXT,
   ulan TEXT
 );
+
+-- And then your code to populate the tables!
+
+
+
+
+
+
+-- PART B
+-- SQL to create and populate the artwork_artists table
+
+
+
+
+-- PART C
+-- SQL to eliminate any duplicates and tweak column types
+
+
+
+
+-- PART D
+-- SQL to set constraints in the form of primary and foreign keys
+
+
+
+
+-- PART E
+-- SQL to remove unnecessary columns from artworks
+
+
+
+
+-- PART F
+-- SQL to NULLify missing birth/death dates instead of 0
+
+
+
+
+-- PART G
+-- SQL to create and populate a date_int column
+
+
+
+
+-- PART H
+-- SQL to rename and populate perimeter_cm for entries without existing values
+
+
+
+
+
