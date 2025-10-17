@@ -6,6 +6,7 @@
 
 ## Part A
 **Answer:**
+**Description:**
 ```sql
 
 ```
@@ -14,6 +15,7 @@
 
 ## Part B
 **Answer:**
+**Description:**
 ```sql
 
 ```
@@ -22,6 +24,7 @@
 
 ## Part C
 **Answer:**
+**Description:**
 ```sql
 
 ```
@@ -30,6 +33,7 @@
 
 ## Part D
 **Answer:**
+**Description:**
 ```sql
 
 ```
